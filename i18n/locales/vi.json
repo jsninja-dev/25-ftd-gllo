@@ -1,0 +1,167 @@
+{
+  "common": {
+    "btnClaim": "Nhận Thưởng",
+    "btnOpen": "Mở Tài Khoản & Nhận Thưởng Ngay",
+    "TNC": "Áp dụng Điều khoản & Điều kiện",
+    "TCFull": "Đọc đầy đủ Điều khoản & Điều kiện",
+    "trust": "SquaredFinancial được đánh giá <strong>Xuất sắc</strong>"
+  },
+  "meta": {
+    "title": "25% Thưởng Nạp Đầu Tiên | Nhận Lên Đến 1.000 USD Tiền Thưởng | SquaredFinancial",
+    "description": "Nhận ngay 25% thưởng nạp đầu tiên và nhận tới 1.000 USD tiền thưởng để giao dịch. Giao dịch hơn 1.000 công cụ trên nền tảng MT4/MT5 với phương thức thanh toán an toàn và hỗ trợ 24/5."
+  },
+  "alt": {
+    "logo": "logo squared",
+    "logo2": "Logo SquaredFinancial",
+    "arrow": "mũi tên",
+    "gamma": "gamma"
+  },
+  "heroSection": {
+    "title": "25%",
+    "text": "Thưởng Có Thể Mất Khi Giao Dịch Thua Lỗ – Dành Cho Lần Nạp Đầu Tiên",
+    "fundPre": "Nhận lên đến",
+    "fundPost": "dưới dạng tiền thưởng",
+    "trust": "SquaredFinancial được đánh giá <strong>Xuất sắc</strong>",
+    "caption": "Được vinh danh. Đáng tin cậy. Được công nhận.",
+    "tips": [
+      "Được cấp phép & giám sát chặt chẽ<br class='hidden-mobile'/> để bảo vệ quyền lợi của bạn",
+      "Hỗ trợ đa ngôn ngữ 24/7<br class='hidden-mobile'/>",
+      "Nền tảng hàng đầu ngành:<br class='hidden-mobile'/> MT4 & MT5"
+    ]
+  },
+  "qualitiesSection": {
+    "title": "Lên đến 1.000 USD<br />tiền thưởng",
+    "text": "Thưởng 100% cho lần nạp đầu tiên và<br />thưởng 50% cho các lần nạp lại",
+    "cards": {
+      "0": {
+        "title": "giá trị <br class='hidden-mobile' /> khoản nạp đầu tiên của bạn",
+        "text": ["Nạp tiền — chúng tôi sẽ đối ứng ngay! Lên đến 5.000 USD!"]
+      },
+      "1": {
+        "title": "Tất cả các công cụ giao dịch đều khả dụng",
+        "text": [
+          "Nạp thêm vào tài khoản và nhận ngay 50% giá trị nạp để giao dịch — lặp lại không giới hạn."
+        ]
+      },
+      "2": {
+        "title": "Áp dụng cho khách hàng mới <br /> và hiện tại",
+        "text": [
+          "Sử dụng tiền thưởng để tăng quy mô giao dịch.",
+          "Nếu thua lỗ, số dư tiền thật của bạn vẫn được giữ nguyên."
+        ]
+      },
+      "3": {
+        "title": "Đòn bẩy lên đến",
+        "text": [
+          "Ngoại hối, tiền mã hóa, chỉ số, hàng hóa.<br />Không giới hạn, không ràng buộc."
+        ]
+      },
+      "4": {
+        "title": "Tiền thưởng được cộng trong 24 giờ",
+        "text": [
+          "Không chậm trễ.<br />Không rườm rà.<br />Chỉ cần thêm sức mạnh<br />cho tài khoản của bạn."
+        ]
+      }
+    }
+  },
+  "meritSection": {
+    "title": "Cách Thức Nhận Thưởng",
+    "step": "Bước",
+    "cards": {
+      "0": {
+        "title": "Mở tài khoản SquaredPro hoặc<br class='hidden-desktop' /> SquaredElite",
+        "text": "Chọn loại tài khoản phù hợp nhất với nhu cầu của bạn"
+      },
+      "1": {
+        "title": "Nạp tiền lần đầu trên 100 USD cho SquaredPro<br class='hidden-mobile' /> hoặc 500 USD cho SquaredElite",
+        "text": "Nạp tiền không mất phí"
+      },
+      "2": {
+        "title": "Nhận ngay thưởng 100%, lên đến 5.000 USD",
+        "text": "Nạp lại bất kỳ lúc nào và nhận thưởng 50%"
+      }
+    }
+  },
+  "knownSection": {
+    "title": "Những điều bạn cần lưu ý",
+    "cards": { 
+      "0": "Tiền thưởng lên đến <br /> <strong>$1.000</strong>",
+      "1": "Người tham gia <strong>bắt buộc phải chấp nhận các điều khoản và điều kiện</strong> của chương trình khuyến mãi",
+      "2": "Chương trình khuyến mãi có sẵn tại các quốc gia <strong>do công ty quyết định theo toàn quyền của mình</strong>",
+      "3": "Thời hạn của tiền thưởng là <strong>90 ngày kể từ thời điểm nạp tiền đầu tiên.</strong> Sau 90 ngày, tiền thưởng sẽ được <strong>gỡ khỏi tài khoản</strong>",
+      "4": "Tiền thưởng <strong>không thể rút</strong> và chỉ được sử dụng cho mục đích giao dịch",
+      "5": "Tiền thưởng <strong>có thể bị mất</strong>, nghĩa là mọi khoản lỗ phát sinh khi giao dịch bằng <strong>Tiền thưởng sẽ bị khấu trừ</strong> vào số dư tài khoản của khách hàng",
+      "6": "Sau khi nhận được khoản tiền gửi, tiền thưởng sẽ được ghi có vào tài khoản của khách hàng trong vòng <strong>hai mươi bốn (24) giờ kể từ khi thực hiện khoản tiền gửi hợp lệ</strong>",
+      "7": "Tiền thưởng <strong>không thể chuyển giữa các tài khoản</strong>"
+    }
+  },
+  "vipSection": {
+    "title": "Thương hiệu<br /> được đưa tin trên:",
+    "text": "Chuyên môn và độ phủ sóng bởi các phương tiện truyền thông toàn cầu"
+  },
+  "specSection": {
+    "title": "Tại Sao Nhà Giao Dịch Chọn Chúng Tôi",
+    "text": [
+      "<strong>năm</strong> <br />kinh nghiệm",
+      "Chênh lệch giá (spread) từ",
+      "<strong>pip</strong>",
+      "<strong class='subtitle'>Phương thức</strong> <br />thanh toán an toàn",
+      "tốc độ khớp lệnh",
+      "nền tảng đa tài sản hàng đầu ngành",
+      "công cụ giao dịch",
+      "hỗ trợ khách hàng"
+    ]
+  },
+  "footer": {
+    "awards": {
+      "title": "Đừng chỉ tin vào lời chúng tôi",
+      "caption": "Được trao giải quốc tế vì sự xuất sắc",
+      "cards": {
+        "1": {
+          "title": "Ứng Dụng Di Động Giao Dịch Tốt Nhất",
+          "text": "Pan Finance"
+        },
+        "2": {
+          "title": "Nhà Cung Cấp Cổ Phiếu Tốt Nhất",
+          "text": "Global Brands Magazine"
+        },
+        "3": {
+          "title": "Bảo Mật Quỹ Khách Hàng Tốt Nhất",
+          "text": "Global Brands Magazine"
+        },
+        "4": {
+          "title": "Sàn Giao Dịch CFD Tốt Nhất",
+          "text": "AtoZ Markets"
+        },
+        "5": {
+          "title": "Sàn Giao Dịch Uy Tín Nhất",
+          "text": "World Finance"
+        },
+        "6": {
+          "title": "Sàn Giao Dịch Có Khả Năng Thực Thi Lệnh Tốt Nhất",
+          "text": "Rankia Awards"
+        }
+      }
+    },
+    "contacts": {
+      "copyright": "© SquaredFinancial 2025. Đã đăng ký bản quyền.",
+      "findUs": "Theo dõi chúng tôi tại",
+      "address": "Commercial House 1, Văn phòng số 4, Đảo Eden, Mahé, Seychelles",
+      "contactUs": "Liên hệ chúng tôi"
+    },
+    "disclaimers": {
+      "1": {
+        "title": "Cảnh báo rủi ro:",
+        "text": "Giao dịch các sản phẩm có đòn bẩy tiềm ẩn rủi ro cao và có thể dẫn đến việc mất toàn bộ số vốn đã đầu tư."
+      },
+      "2": {
+        "title": "Miễn trừ trách nhiệm:",
+        "text": "Trang web này không nhằm mục đích cung cấp dịch vụ đầu tư cho công dân tại một số khu vực pháp lý nhất định như các quốc gia thành viên EU/EEA, Vương quốc Anh, Hoa Kỳ, Úc, New Zealand và các quốc gia nằm trong danh sách đen của FATF, bao gồm (nhưng không giới hạn) Iran, Triều Tiên và Myanmar (Miến Điện). Bạn phải từ đủ 18 tuổi trở lên hoặc đã đủ tuổi trưởng thành theo quy định pháp luật tại quốc gia bạn cư trú để đăng ký mở tài khoản."
+      },
+      "3": {
+        "title": "Thông tin pháp lý:",
+        "text": "Trang web này được vận hành bởi công ty SQ Sey Ltd — doanh nghiệp được cấp phép và quản lý như một Nhà Môi giới Chứng khoán bởi Cơ quan Dịch vụ Tài chính Seychelles (FSA) với số giấy phép SD024."
+      }
+    }
+  }
+}

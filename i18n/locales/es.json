@@ -1,0 +1,167 @@
+{
+  "common": {
+    "btnClaim": "Reclamar bono",
+    "btnOpen": "Abrir una cuenta y reclamar el bono",
+    "TNC": "Aplican Términos y Condiciones",
+    "TCFull": "Leer los Términos y Condiciones",
+    "trust": "SquaredFinancial tiene una calificación de <strong>Excelente</strong>"
+  },
+  "meta": {
+    "title": "25 % de bono por primer depósito | Obtén hasta 1.000 $ en fondos de bono | SquaredFinancial",
+    "description": "Reclama un bono del 25 % por tu primer depósito y recibe hasta 1.000 $ en fondos de bono para operar. Opera más de 1.000 instrumentos en MT4/MT5 con pagos seguros y soporte 24/5."
+  },
+  "alt": {
+    "logo": "logotipo de Squared",
+    "logo2": "Logotipo de SquaredFinancial",
+    "arrow": "flecha",
+    "gamma": "gamma"
+  },
+  "heroSection": {
+    "title": "25 %",
+    "text": "Bono perdible por primer depósito",
+    "fundPre": "Obtén hasta",
+    "fundPost": "en fondos de bono",
+    "trust": "SquaredFinancial tiene una calificación de <strong>Excelente</strong>",
+    "caption": "Galardonado. Confiable. Reconocido.",
+    "tips": [
+      "Licenciado y regulado<br class='hidden-mobile'/> para tu protección",
+      "Soporte multilingüe 24/7<br class='hidden-mobile'/>",
+      "Plataformas líderes en la industria:<br class='hidden-mobile'/> MT4 y MT5"
+    ]
+  },
+  "qualitiesSection": {
+    "title": "Hasta 1.000 $<br />en fondos de bono",
+    "text": "Bono del 100 % por primer depósito y<br />bono del 50 % por recarga",
+    "cards": {
+      "0": {
+        "title": "del valor de <br class='hidden-mobile' /> tu primer depósito",
+        "text": ["¡Deposita y nosotros lo igualamos! ¡Hasta 5.000 $!"]
+      },
+      "1": {
+        "title": "Todos los instrumentos negociables disponibles",
+        "text": [
+          "Recarga tu cuenta y obtén un 50 % más para operar, una y otra vez."
+        ]
+      },
+      "2": {
+        "title": "Disponible para clientes nuevos <br /> y existentes",
+        "text": [
+          "Usa los fondos de bono para potenciar tus operaciones.",
+          "Si los pierdes, tu saldo real permanece seguro."
+        ]
+      },
+      "3": {
+        "title": "Apalancamiento de hasta",
+        "text": [
+          "Forex, criptomonedas, índices, materias primas.<br />Sin límites ni restricciones."
+        ]
+      },
+      "4": {
+        "title": "Bono acreditado en 24 horas",
+        "text": [
+          "Sin demoras.<br />Sin complicaciones.<br />Solo más poder<br />en tu cuenta."
+        ]
+      }
+    }
+  },
+  "meritSection": {
+    "title": "Cómo funciona",
+    "step": "Paso",
+    "cards": {
+      "0": {
+        "title": "Abre una cuenta SquaredPro o<br class='hidden-desktop' /> SquaredElite",
+        "text": "Elige el tipo de cuenta que mejor se adapte a ti"
+      },
+      "1": {
+        "title": "Realiza un primer depósito superior a 100 $ en SquaredPro<br class='hidden-mobile' /> o 500 $ en SquaredElite",
+        "text": "Deposita sin comisiones"
+      },
+      "2": {
+        "title": "Recibe tu bono del 100 %, hasta 5.000 $",
+        "text": "Recarga en cualquier momento y recibe un bono del 50 %"
+      }
+    }
+  },
+  "knownSection": {
+    "title": "Lo que debes saber",
+    "cards": { 
+      "0": "Bono de hasta <br /> <strong>$1,000</strong>",
+      "1": "Los participantes están <strong>obligados a aceptar los términos y condiciones</strong> de la promoción",
+      "2": "La promoción está disponible en los países <strong>decididos a discreción de la empresa</strong>",
+      "3": "La duración del bono es de <strong>90 días desde el momento del primer depósito.</strong> Después de 90 días, el bono será <strong>eliminado de la cuenta</strong>",
+      "4": "El bono <strong>no puede retirarse</strong> y está destinado únicamente a fines de trading",
+      "5": "El bono <strong>puede perderse</strong>, lo que significa que cualquier pérdida incurrida al operar con el <strong>bono será deducida</strong> del saldo de la cuenta del cliente",
+      "6": "Tras recibir el depósito, el bono se acreditará en la cuenta del cliente dentro de las <strong>veinticuatro (24) horas posteriores a realizar un depósito válido</strong>",
+      "7": "El bono <strong>no es transferible entre cuentas</strong>"
+    }
+  },
+  "vipSection": {
+    "title": "Marca<br />destacada en:",
+    "text": "Experiencia y cobertura por parte de medios internacionales"
+  },
+  "specSection": {
+    "title": "Por qué los operadores nos eligen",
+    "text": [
+      "<strong>años</strong> <br />de experiencia",
+      "Spreads desde",
+      "<strong>pips</strong>",
+      "<strong class='subtitle'>Métodos de pago</strong> <br />seguros",
+      "velocidad de ejecución",
+      "plataformas multiactivo líderes en la industria",
+      "instrumentos",
+      "atención al cliente"
+    ]
+  },
+  "footer": {
+    "awards": {
+      "title": "No solo te lo decimos nosotros",
+      "caption": "Premiados internacionalmente por excelencia",
+      "cards": {
+        "1": {
+          "title": "Mejor aplicación móvil para trading",
+          "text": "Pan Finance"
+        },
+        "2": {
+          "title": "Mejor proveedor de acciones",
+          "text": "Global Brands Magazine"
+        },
+        "3": {
+          "title": "Mejor seguridad de fondos de clientes",
+          "text": "Global Brands Magazine"
+        },
+        "4": {
+          "title": "Mejor bróker de CFD",
+          "text": "AtoZ Markets"
+        },
+        "5": {
+          "title": "Bróker más confiable",
+          "text": "World Finance"
+        },
+        "6": {
+          "title": "Mejor bróker en ejecución de órdenes",
+          "text": "Rankia Awards"
+        }
+      }
+    },
+    "contacts": {
+      "copyright": "© SquaredFinancial 2025. Todos los derechos reservados.",
+      "findUs": "Encuéntranos en",
+      "address": "Commercial House 1, Oficina N.º 4, Eden Island, Mahé, Seychelles",
+      "contactUs": "Contáctanos"
+    },
+    "disclaimers": {
+      "1": {
+        "title": "Advertencia de riesgo:",
+        "text": "El trading de productos apalancados conlleva un riesgo significativo y puede resultar en la pérdida del capital invertido."
+      },
+      "2": {
+        "title": "Aclaraciones:",
+        "text": "Este sitio web no está destinado a ofrecer servicios de inversión a ciudadanos de ciertas jurisdicciones, como los Estados miembros de la UE/EEE, el Reino Unido, EE. UU., Australia, Nueva Zelanda, y países incluidos en la lista del GAFI (entre otros, Irán, Corea del Norte y Myanmar/Birmania). Debes tener al menos 18 años o la mayoría de edad según la legislación de tu país para registrarte y abrir una cuenta."
+      },
+      "3": {
+        "title": "Información legal:",
+        "text": "Este sitio web es operado por SQ Sey Ltd, una empresa autorizada y regulada como distribuidor de valores por la Autoridad de Servicios Financieros de Seychelles, con número de licencia SD024."
+      }
+    }
+  }
+}

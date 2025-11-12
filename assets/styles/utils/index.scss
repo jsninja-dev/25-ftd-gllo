@@ -1,0 +1,11 @@
+@import 'variables';
+@import 'utils';
+@import 'breakpoints';
+
+.input-field {
+  width: 100%;
+  padding: em(12) em(10) em(12) em(10);
+  border: em(1) solid #d3d3d3;
+  border-radius: em(3);
+  background-color: $color-white;
+}

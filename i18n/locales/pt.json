@@ -1,0 +1,167 @@
+{
+  "common": {
+    "btnClaim": "Reivindicar Bónus",
+    "btnOpen": "Abrir uma Conta e Reivindicar o Bónus",
+    "TNC": "Aplicam-se Termos e Condições",
+    "TCFull": "Ler os Termos e Condições",
+    "trust": "A SquaredFinancial tem classificação <strong>Excelente</strong>"
+  },
+  "meta": {
+    "title": "25% de Bónus no Primeiro Depósito | Receba até 1.000 USD em Fundos de Bónus | SquaredFinancial",
+    "description": "Reivindique um bónus de 25% no primeiro depósito e receba até 1.000 USD em fundos de bónus para negociar. Negocie mais de 1.000 instrumentos nas plataformas MT4/MT5, com pagamentos seguros e apoio 24/5."
+  },
+  "alt": {
+    "logo": "logótipo squared",
+    "logo2": "Logótipo SquaredFinancial",
+    "arrow": "seta",
+    "gamma": "gama"
+  },
+  "heroSection": {
+    "title": "25%",
+    "text": "Bónus Perdível no Primeiro Depósito",
+    "fundPre": "Receba até",
+    "fundPost": "em Fundos de Bónus",
+    "trust": "A SquaredFinancial tem classificação <strong>Excelente</strong>",
+    "caption": "Premiada. Confiável. Reconhecida.",
+    "tips": [
+      "Licenciada e Regulada<br class='hidden-mobile'/> para a sua proteção",
+      "Apoio Multilíngue 24/7<br class='hidden-mobile'/>",
+      "Plataformas líderes do setor:<br class='hidden-mobile'/> MT4 e MT5"
+    ]
+  },
+  "qualitiesSection": {
+    "title": "Até 1.000 USD<br />em Fundos de Bónus",
+    "text": "Bónus de 100% no Primeiro Depósito e<br />Bónus de 50% em Recargas",
+    "cards": {
+      "0": {
+        "title": "do valor do <br class='hidden-mobile' /> seu primeiro depósito",
+        "text": ["Deposite e nós igualamos! Até 5.000 USD!"]
+      },
+      "1": {
+        "title": "Todos os instrumentos negociáveis disponíveis",
+        "text": [
+          "Recarregue a sua conta e obtenha 50% adicionais para negociar — sempre que quiser."
+        ]
+      },
+      "2": {
+        "title": "Disponível para clientes novos <br /> e existentes",
+        "text": [
+          "Utilize os fundos de bónus para potenciar as suas negociações.",
+          "Se os perder, o seu saldo real permanece seguro."
+        ]
+      },
+      "3": {
+        "title": "Alavancagem até",
+        "text": [
+          "Forex, Criptomoedas, Índices, Matérias-primas.<br />Sem limites, sem restrições."
+        ]
+      },
+      "4": {
+        "title": "Bónus Creditado em 24 Horas",
+        "text": [
+          "Sem atrasos.<br />Sem complicações.<br />Apenas mais poder<br />na sua conta."
+        ]
+      }
+    }
+  },
+  "meritSection": {
+    "title": "Como Funciona",
+    "step": "Passo",
+    "cards": {
+      "0": {
+        "title": "Abra uma conta SquaredPro ou<br class='hidden-desktop' /> SquaredElite",
+        "text": "Escolha o tipo de conta que melhor se adequa às suas necessidades"
+      },
+      "1": {
+        "title": "Efetue um primeiro depósito superior a 100 USD na SquaredPro<br class='hidden-mobile' /> ou 500 USD na SquaredElite",
+        "text": "Depósito sem comissões"
+      },
+      "2": {
+        "title": "Receba o seu bónus de 100%, até 5.000 USD",
+        "text": "Recarregue a qualquer momento e receba 50% de bónus"
+      }
+    }
+  },
+  "knownSection": {
+    "title": "O que precisa saber",
+    "cards": { 
+      "0": "Bônus de até <br /> <strong>$1.000</strong>",
+      "1": "Os participantes são <strong>obrigados a aceitar os termos e condições</strong> da promoção",
+      "2": "A promoção está disponível em países <strong>determinados a critério da empresa</strong>",
+      "3": "A duração do bônus é de <strong>90 dias a partir do momento do primeiro depósito.</strong> Após 90 dias, o bônus será <strong>removido da conta</strong>",
+      "4": "O bônus <strong>não pode ser retirado</strong> e destina-se exclusivamente a fins de negociação",
+      "5": "O bônus <strong>pode ser perdido</strong>, o que significa que quaisquer perdas incorridas ao negociar com o <strong>Bônus serão deduzidas</strong> do saldo da conta do cliente",
+      "6": "Após o recebimento do depósito, o bônus será creditado na conta do cliente dentro de <strong>vinte e quatro (24) horas após a realização de um depósito qualificado</strong>",
+      "7": "O bônus <strong>não é transferível entre contas</strong>"
+    }
+  },
+  "vipSection": {
+    "title": "Marca <br /> Destacada em:",
+    "text": "Experiência e cobertura por meios de comunicação globais"
+  },
+  "specSection": {
+    "title": "Porque os Traders Nos Escolhem",
+    "text": [
+      "<strong>anos</strong> <br />de experiência",
+      "Spreads a partir de",
+      "<strong>pips</strong>",
+      "<strong class='subtitle'>Métodos de pagamento</strong> <br />seguros",
+      "velocidade de execução",
+      "plataformas multiativo líderes do setor",
+      "instrumentos",
+      "apoio ao cliente"
+    ]
+  },
+  "footer": {
+    "awards": {
+      "title": "Não se limite apenas à nossa palavra",
+      "caption": "Reconhecimento internacional pela excelência",
+      "cards": {
+        "1": {
+          "title": "Melhor Aplicação Móvel para Negociação",
+          "text": "Pan Finance"
+        },
+        "2": {
+          "title": "Melhor Fornecedor de Ações",
+          "text": "Global Brands Magazine"
+        },
+        "3": {
+          "title": "Melhor Segurança dos Fundos dos Clientes",
+          "text": "Global Brands Magazine"
+        },
+        "4": {
+          "title": "Melhor Corretora de CFD",
+          "text": "AtoZ Markets"
+        },
+        "5": {
+          "title": "Corretora Mais Fiável",
+          "text": "World Finance"
+        },
+        "6": {
+          "title": "Melhor Corretora na Execução de Ordens",
+          "text": "Rankia Awards"
+        }
+      }
+    },
+    "contacts": {
+      "copyright": "© SquaredFinancial 2025. Todos os direitos reservados.",
+      "findUs": "Encontre-nos em",
+      "address": "Commercial House 1, Escritório N.º 4, Eden Island, Mahé, Seicheles",
+      "contactUs": "Contacte-nos"
+    },
+    "disclaimers": {
+      "1": {
+        "title": "Aviso de risco:",
+        "text": "A negociação de produtos alavancados envolve riscos significativos e pode resultar na perda do capital investido."
+      },
+      "2": {
+        "title": "Isenções de responsabilidade:",
+        "text": "Este website não se destina a oferecer serviços de investimento a cidadãos de determinadas jurisdições, tais como Estados-Membros da UE/EEE, Reino Unido, EUA, Austrália, Nova Zelândia e países incluídos na lista do GAFI, incluindo, nomeadamente, Irão, Coreia do Norte e Myanmar (Birmânia). Deverá ter, pelo menos, 18 anos de idade ou a maioridade legal definida no seu país para se registar e abrir uma conta."
+      },
+      "3": {
+        "title": "Informação legal:",
+        "text": "Este website é operado pela SQ Sey Ltd, empresa autorizada e regulamentada como Corretora de Valores Mobiliários pela Autoridade dos Serviços Financeiros das Seicheles, com número de licença SD024."
+      }
+    }
+  }
+}

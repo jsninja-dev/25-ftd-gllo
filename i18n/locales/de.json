@@ -1,0 +1,167 @@
+{
+  "common": {
+    "btnClaim": "Bonus abholen",
+    "btnOpen": "Konto eröffnen & Bonus sichern",
+    "TNC": "AGB gelten",
+    "TCFull": "Allgemeine Geschäftsbedingungen lesen",
+    "trust": "SquaredFinancial wird mit <strong>„Ausgezeichnet“</strong> bewertet"
+  },
+  "meta": {
+    "title": "25 % Ersteinzahlungsbonus | Erhalten Sie bis zu 1.000 $ Bonusguthaben | SquaredFinancial",
+    "description": "Sichern Sie sich einen 25 % Ersteinzahlungsbonus und erhalten Sie bis zu 1.000 $ Bonusguthaben zum Traden. Handeln Sie über 1.000 Instrumente auf MT4/MT5 mit sicheren Zahlungsmethoden und 24/5-Support."
+  },
+  "alt": {
+    "logo": "Squared-Logo",
+    "logo2": "SquaredFinancial-Logo",
+    "arrow": "Pfeil",
+    "gamma": "Gamma"
+  },
+  "heroSection": {
+    "title": "25 %",
+    "text": "Verluster Bonus bei Ersteinzahlung",
+    "fundPre": "Erhalten Sie bis zu",
+    "fundPost": "an Bonusguthaben",
+    "trust": "SquaredFinancial wird mit <strong>„Ausgezeichnet“</strong> bewertet",
+    "caption": "Ausgezeichnet. Vertrauenswürdig. Anerkannt.",
+    "tips": [
+      "Lizenziert & reguliert<br class='hidden-mobile'/> für Ihren Schutz",
+      "24/7 mehrsprachiger<br class='hidden-mobile'/> Support",
+      "Branchenführende Plattformen:<br class='hidden-mobile'/> MT4 & MT5"
+    ]
+  },
+  "qualitiesSection": {
+    "title": "Bis zu 1.000 $<br />Bonusguthaben",
+    "text": "100 % Ersteinzahlungsbonus und<br />50 % Wiedereinzahlungsbonus",
+    "cards": {
+      "0": {
+        "title": "des Werts <br class='hidden-mobile' />Ihrer ersten Einzahlung",
+        "text": ["Zahlen Sie ein – wir verdoppeln es! Bis zu 5.000 $!"]
+      },
+      "1": {
+        "title": "Alle handelbaren Instrumente verfügbar",
+        "text": [
+          "Laden Sie Ihr Konto auf und erhalten Sie jedes Mal 50 % mehr zum Traden."
+        ]
+      },
+      "2": {
+        "title": "Für neue <br />und bestehende Kunden verfügbar",
+        "text": [
+          "Nutzen Sie das Bonusguthaben, um Ihre Trades zu verstärken.",
+          "Sollten Sie es verlieren, bleibt Ihr Echtgeldsaldo geschützt."
+        ]
+      },
+      "3": {
+        "title": "Hebelwirkung bis zu",
+        "text": [
+          "Devisen, Kryptowährungen, Indizes, Rohstoffe.<br />Keine Limits, keine Einschränkungen."
+        ]
+      },
+      "4": {
+        "title": "Bonus innerhalb von 24 Stunden gutgeschrieben",
+        "text": [
+          "Keine Verzögerungen.<br />Kein unnötiger Aufwand.<br />Einfach mehr Power<br />auf Ihrem Konto."
+        ]
+      }
+    }
+  },
+  "meritSection": {
+    "title": "So funktioniert’s",
+    "step": "Schritt",
+    "cards": {
+      "0": {
+        "title": "Ein SquaredPro- oder<br class='hidden-desktop' /> SquaredElite-Konto eröffnen",
+        "text": "Wählen Sie den für Sie passenden Kontotyp"
+      },
+      "1": {
+        "title": "Eine Ersteinzahlung von über 100 $ auf SquaredPro<br class='hidden-mobile' /> oder 500 $ auf SquaredElite tätigen",
+        "text": "Einzahlung ohne Provision"
+      },
+      "2": {
+        "title": "Erhalten Sie Ihren 100 %-Bonus, bis zu 5.000 $",
+        "text": "Jederzeit wieder einzahlen und 50 % Bonus erhalten"
+      }
+    }
+  },
+  "knownSection": {
+    "title": "Wichtige Hinweise",
+    "cards": { 
+      "0": "Bonus bis zu <br /> <strong>1.000 $</strong>",
+      "1": "Teilnehmer sind <strong>verpflichtet, die Allgemeinen Geschäftsbedingungen</strong> der Aktion zu akzeptieren",
+      "2": "Die Aktion ist in Ländern <strong>verfügbar, die nach Ermessen des Unternehmens festgelegt werden</strong>",
+      "3": "Die Laufzeit des Bonus beträgt <strong>90 Tage ab dem Zeitpunkt der ersten Einzahlung.</strong> Nach 90 Tagen wird der Bonus <strong>vom Konto entfernt</strong>",
+      "4": "Der Bonus <strong>kann nicht abgehoben werden</strong> und ist ausschließlich für Handelszwecke bestimmt",
+      "5": "Der Bonus <strong>kann verloren gehen</strong>, was bedeutet, dass alle Verluste, die beim Handel mit dem <strong>Bonus entstehen, vom Kontostand des Kunden abgezogen werden</strong>",
+      "6": "Nach Erhalt der Einzahlung wird der Bonus innerhalb von <strong>vierundzwanzig (24) Stunden nach einer qualifizierenden Einzahlung</strong> dem Konto des Kunden gutgeschrieben",
+      "7": "Der Bonus ist <strong>nicht zwischen Konten übertragbar</strong>"
+    }
+  },
+  "vipSection": {
+    "title": "Marke<br />präsentiert in:",
+    "text": "Fachkompetenz und Berichterstattung durch internationale Medien"
+  },
+  "specSection": {
+    "title": "Warum Trader uns wählen",
+    "text": [
+      "<strong>Jahre</strong> <br />Erfahrung",
+      "Spreads ab",
+      "<strong>Pips</strong>",
+      "<strong class='subtitle'>Sichere</strong> <br />Zahlungsmethoden",
+      "Ausführungsgeschwindigkeit",
+      "branchenführende Multi-Asset-Plattformen",
+      "Instrumente",
+      "Kundensupport"
+    ]
+  },
+  "footer": {
+    "awards": {
+      "title": "Nicht nur unser Wort zählt",
+      "caption": "International für Exzellenz ausgezeichnet",
+      "cards": {
+        "1": {
+          "title": "Beste Trading-App für Mobilgeräte",
+          "text": "Pan Finance"
+        },
+        "2": {
+          "title": "Bester Aktienanbieter",
+          "text": "Global Brands Magazine"
+        },
+        "3": {
+          "title": "Beste Sicherheit der Kundengelder",
+          "text": "Global Brands Magazine"
+        },
+        "4": {
+          "title": "Bester CFD-Broker",
+          "text": "AtoZ Markets"
+        },
+        "5": {
+          "title": "Zuverlässigster Broker",
+          "text": "World Finance"
+        },
+        "6": {
+          "title": "Bester Broker bei der Auftragsausführung",
+          "text": "Rankia Awards"
+        }
+      }
+    },
+    "contacts": {
+      "copyright": "© SquaredFinancial 2025. Alle Rechte vorbehalten.",
+      "findUs": "Finden Sie uns auf",
+      "address": "Commercial House 1, Büro Nr. 4, Eden Island, Mahé, Seychellen",
+      "contactUs": "Kontaktieren Sie uns"
+    },
+    "disclaimers": {
+      "1": {
+        "title": "Risikohinweis:",
+        "text": "Der Handel mit gehebelten Produkten birgt ein erhebliches Risiko und kann zum Verlust Ihres investierten Kapitals führen."
+      },
+      "2": {
+        "title": "Haftungsausschluss:",
+        "text": "Diese Website ist nicht dazu bestimmt, Anlageberatung oder -dienstleistungen für Staatsbürger bestimmter Länder anzubieten, darunter Mitgliedstaaten der EU/EWR, Großbritannien, USA, Australien, Neuseeland sowie Länder auf der Liste der FATF (u. a. Iran, Nordkorea und Myanmar/Birma). Sie müssen mindestens 18 Jahre alt oder das gesetzliche Mindestalter Ihres Landes erreicht haben, um ein Konto zu registrieren."
+      },
+      "3": {
+        "title": "Rechtliche Hinweise:",
+        "text": "Diese Website wird betrieben von SQ Sey Ltd, einem Unternehmen, das von der Financial Services Authority der Seychellen als Wertpapierhändler lizenziert und reguliert wird (Lizenznummer SD024)."
+      }
+    }
+  }
+}
