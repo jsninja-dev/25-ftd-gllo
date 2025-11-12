@@ -1,0 +1,167 @@
+{
+  "common": {
+    "btnClaim": "Klaim Bonus",
+    "btnOpen": "Buka Akun & Klaim Bonus",
+    "TNC": "Syarat & Ketentuan berlaku",
+    "TCFull": "Baca Syarat & Ketentuan",
+    "trust": "SquaredFinancial dinilai <strong>Sangat Baik</strong>"
+  },
+  "meta": {
+    "title": "Bonus 25% untuk Setoran Pertama | Dapatkan hingga $1.000 dalam Dana Bonus | SquaredFinancial",
+    "description": "Klaim Bonus 25% untuk Setoran Pertama dan terima hingga $1.000 dalam dana bonus untuk trading. Trading lebih dari 1.000 instrumen di MT4/MT5 dengan pembayaran aman dan dukungan 24/5."
+  },
+  "alt": {
+    "logo": "logo squared",
+    "logo2": "Logo SquaredFinancial",
+    "arrow": "panah",
+    "gamma": "gamma"
+  },
+  "heroSection": {
+    "title": "25%",
+    "text": "Bonus yang Dapat Hilang untuk Setoran Pertama",
+    "fundPre": "Dapatkan hingga",
+    "fundPost": "dalam Dana Bonus",
+    "trust": "SquaredFinancial dinilai <strong>Sangat Baik</strong>",
+    "caption": "Terpilih. Terpercaya. Diakui.",
+    "tips": [
+      "Berlisensi & Diatur<br class='hidden-mobile'/> demi perlindungan Anda",
+      "Dukungan Multibahasa 24/7<br class='hidden-mobile'/>",
+      "Platform terkemuka di industri:<br class='hidden-mobile'/> MT4 & MT5"
+    ]
+  },
+  "qualitiesSection": {
+    "title": "Hingga $1.000<br />dalam Dana Bonus",
+    "text": "Bonus 100% untuk Setoran Pertama dan<br />Bonus 50% untuk Setoran Ulang",
+    "cards": {
+      "0": {
+        "title": "dari nilai <br class='hidden-mobile' /> setoran pertama Anda",
+        "text": ["Setor dan kami akan mencocokkannya! Hingga $5.000!"]
+      },
+      "1": {
+        "title": "Semua instrumen yang dapat diperdagangkan tersedia",
+        "text": [
+          "Isi ulang akun Anda dan dapatkan tambahan 50% untuk trading, berulang kali."
+        ]
+      },
+      "2": {
+        "title": "Tersedia untuk klien baru <br /> dan yang sudah ada",
+        "text": [
+          "Gunakan dana bonus untuk memperkuat transaksi Anda.",
+          "Jika Anda kehilangannya, saldo dana pribadi Anda tetap aman."
+        ]
+      },
+      "3": {
+        "title": "Leverage hingga",
+        "text": [
+          "Forex, Kripto, Indeks, Komoditas.<br />Tanpa batas, tanpa pembatasan."
+        ]
+      },
+      "4": {
+        "title": "Bonus Dikreditkan dalam 24 Jam",
+        "text": [
+          "Tanpa penundaan.<br />Tanpa kerumitan.<br />Hanya lebih banyak kekuatan<br />di akun Anda."
+        ]
+      }
+    }
+  },
+  "meritSection": {
+    "title": "Cara Kerjanya",
+    "step": "Langkah",
+    "cards": {
+      "0": {
+        "title": "Buka akun SquaredPro atau<br class='hidden-desktop' /> SquaredElite",
+        "text": "Pilih jenis akun yang paling sesuai untuk Anda"
+      },
+      "1": {
+        "title": "Lakukan setoran pertama lebih dari $100 untuk SquaredPro<br class='hidden-mobile' /> atau $500 untuk SquaredElite",
+        "text": "Setor tanpa komisi"
+      },
+      "2": {
+        "title": "Terima bonus 100% Anda, hingga $5.000",
+        "text": "Lakukan setoran ulang kapan saja dan terima bonus 50%"
+      }
+    }
+  },
+  "knownSection": {
+    "title": "Yang perlu Anda ketahui",
+    "cards": { 
+      "0": "Bonus hingga <br /> <strong>$1.000</strong>",
+      "1": "Peserta <strong>diharuskan untuk menerima syarat dan ketentuan</strong> dari promosi ini",
+      "2": "Promosi ini tersedia di negara-negara <strong>yang ditentukan atas kebijakan perusahaan</strong>",
+      "3": "Durasi bonus adalah <strong>90 hari sejak waktu deposit pertama.</strong> Setelah 90 hari, bonus akan <strong>dihapus dari akun</strong>",
+      "4": "Bonus <strong>tidak dapat ditarik</strong> dan hanya dimaksudkan untuk tujuan trading",
+      "5": "Bonus <strong>dapat hilang</strong>, yang berarti kerugian apa pun yang terjadi saat trading dengan <strong>Bonus akan dikurangkan</strong> dari saldo akun klien",
+      "6": "Setelah menerima deposit, bonus akan dikreditkan ke akun klien dalam waktu <strong>dua puluh empat (24) jam setelah melakukan deposit yang memenuhi syarat</strong>",
+      "7": "Bonus <strong>tidak dapat dipindahkan antar akun</strong>"
+    }
+  },
+  "vipSection": {
+    "title": "Merek <br /> Telah Diberitakan di:",
+    "text": "Keahlian dan liputan oleh media global"
+  },
+  "specSection": {
+    "title": "Mengapa Trader Memilih Kami",
+    "text": [
+      "<strong>tahun</strong> <br />pengalaman",
+      "Spread mulai dari",
+      "<strong>pips</strong>",
+      "<strong class='subtitle'>Metode pembayaran</strong> <br />aman",
+      "kecepatan eksekusi",
+      "platform multi-aset terkemuka di industri",
+      "instrumen",
+      "layanan pelanggan"
+    ]
+  },
+  "footer": {
+    "awards": {
+      "title": "Jangan hanya percaya kata kami",
+      "caption": "Telah meraih penghargaan internasional atas keunggulan",
+      "cards": {
+        "1": {
+          "title": "Aplikasi Mobile Trading Terbaik",
+          "text": "Pan Finance"
+        },
+        "2": {
+          "title": "Penyedia Saham Terbaik",
+          "text": "Global Brands Magazine"
+        },
+        "3": {
+          "title": "Keamanan Dana Klien Terbaik",
+          "text": "Global Brands Magazine"
+        },
+        "4": {
+          "title": "Broker CFD Terbaik",
+          "text": "AtoZ Markets"
+        },
+        "5": {
+          "title": "Broker Paling Andal",
+          "text": "World Finance"
+        },
+        "6": {
+          "title": "Broker Terbaik dalam Eksekusi Order",
+          "text": "Rankia Awards"
+        }
+      }
+    },
+    "contacts": {
+      "copyright": "© SquaredFinancial 2025. Seluruh hak cipta dilindungi.",
+      "findUs": "Temukan kami di",
+      "address": "Commercial House 1, Kantor No. 4, Eden Island, Mahe, Seychelles",
+      "contactUs": "Hubungi kami"
+    },
+    "disclaimers": {
+      "1": {
+        "title": "Peringatan risiko:",
+        "text": "Trading produk berbasis leverage mengandung risiko signifikan dan dapat mengakibatkan hilangnya modal yang Anda investasikan."
+      },
+      "2": {
+        "title": "Penafian:",
+        "text": "Situs web ini tidak dimaksudkan untuk menawarkan layanan investasi kepada warga negara dari yurisdiksi tertentu seperti negara anggota UE/EEA, Inggris, AS, Australia, Selandia Baru, serta negara dalam daftar FATF termasuk, antara lain, Iran, Korea Utara, dan Myanmar (Burma). Anda harus berusia minimal 18 tahun, atau telah mencapai usia dewasa sesuai ketentuan hukum di negara Anda, untuk mendaftar akun."
+      },
+      "3": {
+        "title": "Legal:",
+        "text": "Situs web ini dioperasikan oleh SQ Sey Ltd, sebuah perusahaan yang berizin dan diatur sebagai Dealer Efek oleh Otoritas Jasa Keuangan Seychelles dengan nomor lisensi SD024."
+      }
+    }
+  }
+}

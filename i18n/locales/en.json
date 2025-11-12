@@ -1,0 +1,177 @@
+{
+  "common": {
+    "btnClaim": "Claim Bonus",
+    "btnOpen": "Open an Account & Claim the Bonus",
+    "TNC": "T&Cs apply",
+    "TCFull": "Read the Terms & Conditions",
+    "trust": "SquaredFinancial is rated <strong>Excellent</strong>"
+  },
+  "meta": {
+    "title": "25% First Deposit Bonus | Get Up to $1,000 in Bonus Funds | SquaredFinancial",
+    "description": "Claim a 25% First Deposit Bonus and receive up to $1,000 in bonus trading funds. Trade 1,000+ instruments on MT4/MT5 with secure payments and 24/5 support."
+  },
+
+  "alt": {
+    "logo": "squared logo",
+    "logo2": "SquaredFinancial Logo",
+    "arrow": "arrow",
+    "gamma": "gamma"
+  },
+
+  "heroSection": {
+    "title": "25%",
+    "text": "First Deposit Losable Bonus",
+    "fundPre": "Get up to",
+    "fundPost": "in Bonus Funds",
+    "trust": "SquaredFinancial is rated <strong>Excellent</strong>",
+    "caption": "Awarded. Trusted. Recognized",
+    "tips": [
+      "Licensed & Regulated<br class='hidden-mobile'/> for your protection",
+      "24/7 Multilingual<br class='hidden-mobile'/> Support",
+      "Industry-leading platforms:<br class='hidden-mobile'/> MT4 & MT5"
+    ]
+  },
+
+  "qualitiesSection": {
+    "title": "Up to $1,000<br />in Bonus Funds",
+    "text": "100% First Deposit Bonus and<br />50% Redeposit Bonus",
+    "cards": {
+      "0": {
+        "title": "of the value of <br class='hidden-mobile' /> your first deposit",
+        "text": ["Deposit and we’ll match it! Up to $5,000!"]
+      },
+      "1": {
+        "title": "All tradable instruments available",
+        "text": [
+          "Top up your account and get 50% more to trade with, again and again."
+        ]
+      },
+      "2": {
+        "title": "Available to new <br /> and existing clients",
+        "text": [
+          "Use bonus funds to boost your trades.",
+          "If you lose them, your real balance stays safe."
+        ]
+      },
+      "3": {
+        "title": "Leverage up to",
+        "text": [
+          "Forex, Crypto, Indices, Commodities.<br />No limits, no restrictions."
+        ]
+      },
+      "4": {
+        "title": "Bonus Credited in 24 Hours",
+        "text": [
+          "No delays.<br />No nonsense.<br />Just more power<br />in your account."
+        ]
+      }
+    }
+  },
+
+  "meritSection": {
+    "title": "How It Works",
+    "step": "Step",
+    "cards": {
+      "0": {
+        "title": "Open a SquaredPro or<br class='hidden-desktop' /> SquaredElite account",
+        "text": "Choose the account type that suits you best"
+      },
+      "1": {
+        "title": "Make a first deposit greater than $100 on SquaredPro<br class='hidden-mobile' /> or $500 on SquaredElite",
+        "text": "Deposit with 0 commission"
+      },
+      "2": {
+        "title": "Receive your 100% Bonus, up to $5,000",
+        "text": "Redeposit anytime and receive 50% bonus"
+      }
+    }
+  },
+
+  "knownSection": {
+    "title": "What you need to know",
+    "cards": {
+      "0": "Bonus up to <br /> <strong>$1,000</strong>",
+      "1": "Participants are <strong>required to accept the terms and conditions</strong> of the promotion",
+      "2": "The promotion is available in countries <strong>decided at the discretion of the company</strong>",
+      "3": "The duration of bonus is <strong>90 days from the time of the first deposit.</strong> After 90 days, the bonus will be <strong>removed from the account</strong>",
+      "4": "The bonus <strong>cannot be withdrawn</strong> and is solely intended for trading purposes",
+      "5": "The bonus <strong>is losable</strong>, which means that any losses incurred while trading with the <strong>Bonus will be deducted</strong> from the client's account balance",
+      "6": "Upon receipt of the deposit, the bonus will be credited to the client's account within <strong>twenty-four (24) hours of making a qualifying deposit</strong>",
+      "7": "The bonus is <strong>non-transferable between accounts</strong>",
+    }
+  },
+
+  "vipSection": {
+    "title": "Brand <br /> Featured on:",
+    "text": "Expertise and coverage by global media"
+  },
+
+  "specSection": {
+    "title": "Why Traders Choose Us",
+    "text": [
+      "<strong>years</strong> <br />of experience",
+      "Spreads from",
+      "<strong>pips</strong>",
+      "<strong class='subtitle'>Secure</strong> <br /> payment methods",
+      "execution speed",
+      "industry-leading multi-asset platforms",
+      "instruments",
+      "customer support"
+    ]
+  },
+
+  "footer": {
+    "awards": {
+      "title": "Don't just take our word for it",
+      "caption": "Internationally awarded for excellence",
+      "cards": {
+        "1": {
+          "title": "Best Trading Mobile App",
+          "text": "Pan Finance"
+        },
+        "2": {
+          "title": "Best Stock Provider",
+          "text": "Global Brands Magazine"
+        },
+        "3": {
+          "title": "Best Client Fund Security",
+          "text": "Global Brands Magazine"
+        },
+        "4": {
+          "title": "Best CFDs Broker",
+          "text": "AtoZ Markets"
+        },
+        "5": {
+          "title": "Most Reliable Broker",
+          "text": "World Finance"
+        },
+        "6": {
+          "title": "Best Broker in Order Execution",
+          "text": "Rankia Awards"
+        }
+      }
+    },
+
+    "contacts": {
+      "copyright": "© SquaredFinancial 2025. All rights reserved.",
+      "findUs": "Find us on",
+      "address": "Commercial House 1, Office No.4, Eden Island, Mahe, Seychelles",
+      "contactUs": "Contact us"
+    },
+
+    "disclaimers": {
+      "1": {
+        "title": "Risk warning:",
+        "text": "Trading leveraged products involves a significant risk and can result in the loss of your invested capital."
+      },
+      "2": {
+        "title": "Disclaimers:",
+        "text": "The website is not intended to offer investment services to citizens of certain jurisdictions such as EU/EEA member states, UK, USA, Australia, New Zealand, FATF-listed countries including, among others, Iran, North Korea, and Myanmar (Burma). You must be 18 years old, or of legal age as determined in your country in order to register for an account."
+      },
+      "3": {
+        "title": "Legal:",
+        "text": "This website is operated by SQ Sey Ltd, a company authorised and regulated as a Securities Dealer by the Financial Services Authority of Seychelles with license number SD024."
+      }
+    }
+  }
+}

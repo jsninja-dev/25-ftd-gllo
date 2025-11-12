@@ -1,0 +1,167 @@
+{
+  "common": {
+    "btnClaim": "领取奖金",
+    "btnOpen": "开户并领取奖金",
+    "TNC": "适用条款与条件",
+    "TCFull": "阅读完整条款与条件",
+    "trust": "SquaredFinancial 获评<strong>优秀</strong>"
+  },
+  "meta": {
+    "title": "首存奖金 25% | 最高可获 1,000 美元奖金 | SquaredFinancial",
+    "description": "领取 25% 首存奖金，最高可获 1,000 美元交易奖金。在 MT4/MT5 平台上交易 1,000+ 种金融产品，享受安全支付与每周 5 天、每天 24 小时的客户支持。"
+  },
+  "alt": {
+    "logo": "squared 标志",
+    "logo2": "SquaredFinancial 标志",
+    "arrow": "箭头",
+    "gamma": "伽马"
+  },
+  "heroSection": {
+    "title": "25%",
+    "text": "首存可亏损失奖金",
+    "fundPre": "最高可获",
+    "fundPost": "奖金",
+    "trust": "SquaredFinancial 获评<strong>优秀</strong>",
+    "caption": "屡获殊荣 · 值得信赖 · 广受认可",
+    "tips": [
+      "持牌并受监管<br class='hidden-mobile'/>，保障您的资金安全",
+      "7×24 小时多语种<br class='hidden-mobile'/>客户支持",
+      "行业领先交易平台：<br class='hidden-mobile'/>MT4 与 MT5"
+    ]
+  },
+  "qualitiesSection": {
+    "title": "最高<br />1,000 美元奖金",
+    "text": "首存奖金 100% +<br />追加存款奖金 50%",
+    "cards": {
+      "0": {
+        "title": "首笔存款金额的<br class='hidden-mobile' />",
+        "text": ["存入即匹配！最高 5,000 美元！"]
+      },
+      "1": {
+        "title": "全部可交易产品均可使用",
+        "text": [
+          "追加入金，即可重复获得 50% 奖金用于交易。"
+        ]
+      },
+      "2": {
+        "title": "新老客户<br />均可参与",
+        "text": [
+          "使用奖金放大您的交易规模。",
+          "若发生亏损，您的真实资金余额不受影响。"
+        ]
+      },
+      "3": {
+        "title": "杠杆最高可达",
+        "text": [
+          "外汇、加密货币、股指、大宗商品。<br />无限制，无额外约束。"
+        ]
+      },
+      "4": {
+        "title": "奖金 24 小时内到账",
+        "text": [
+          "无延迟。<br />无繁琐流程。<br />只为让您的账户<br />更具实力。"
+        ]
+      }
+    }
+  },
+  "meritSection": {
+    "title": "参与方式",
+    "step": "步骤",
+    "cards": {
+      "0": {
+        "title": "开设 SquaredPro 或<br class='hidden-desktop' /> SquaredElite 账户",
+        "text": "选择最适合您的账户类型"
+      },
+      "1": {
+        "title": "在 SquaredPro 账户入金超过 100 美元<br class='hidden-mobile' /> 或在 SquaredElite 账户入金超过 500 美元",
+        "text": "入金零手续费"
+      },
+      "2": {
+        "title": "即享 100% 奖金，最高 5,000 美元",
+        "text": "随时追加入金，再享 50% 奖金"
+      }
+    }
+  },
+  "knownSection": {
+    "title": "重要须知",
+    "cards": { 
+      "0": "奖金高达 <br /> <strong>$1,000</strong>",
+      "1": "参与者<strong>必须接受本次促销活动的条款和条件</strong>",
+      "2": "本次促销活动适用于<strong>由公司自行决定的国家</strong>",
+      "3": "奖金的有效期为<strong>自首次存款之日起90天。</strong> 90天后，奖金将被<strong>从账户中移除</strong>",
+      "4": "奖金<strong>不可提取</strong>，仅用于交易目的",
+      "5": "奖金<strong>可能会亏损</strong>，这意味着在使用<strong>奖金进行交易时产生的任何亏损</strong>都将从客户的账户余额中扣除",
+      "6": "收到存款后，奖金将在<strong>符合条件的存款后24小时内</strong>记入客户账户",
+      "7": "奖金<strong>不可在账户之间转移</strong>"
+    }
+  },
+  "vipSection": {
+    "title": "品牌<br />获全球媒体广泛报道",
+    "text": "专业实力获国际主流媒体认可与报道"
+  },
+  "specSection": {
+    "title": "交易者为何选择我们",
+    "text": [
+      "<strong>年</strong><br />行业经验",
+      "点差低至",
+      "<strong>点</strong>",
+      "<strong class='subtitle'>安全</strong><br />支付方式",
+      "订单执行速度",
+      "行业领先多资产交易平台",
+      "交易产品",
+      "客户服务"
+    ]
+  },
+  "footer": {
+    "awards": {
+      "title": "实力见证，不止于言",
+      "caption": "屡获国际权威奖项认可",
+      "cards": {
+        "1": {
+          "title": "最佳移动交易应用",
+          "text": "Pan Finance"
+        },
+        "2": {
+          "title": "最佳股票提供商",
+          "text": "Global Brands Magazine"
+        },
+        "3": {
+          "title": "最佳客户资金安全保障",
+          "text": "Global Brands Magazine"
+        },
+        "4": {
+          "title": "最佳差价合约（CFD）经纪商",
+          "text": "AtoZ Markets"
+        },
+        "5": {
+          "title": "最可靠经纪商",
+          "text": "World Finance"
+        },
+        "6": {
+          "title": "最佳订单执行经纪商",
+          "text": "Rankia Awards"
+        }
+      }
+    },
+    "contacts": {
+      "copyright": "© SquaredFinancial 2025。保留所有权利。",
+      "findUs": "关注我们",
+      "address": "Commercial House 1 号楼 4 号办公室，伊甸岛，马埃岛，塞舌尔",
+      "contactUs": "联系我们"
+    },
+    "disclaimers": {
+      "1": {
+        "title": "风险提示：",
+        "text": "杠杆式产品交易存在较高风险，可能导致您投入的本金全部损失。"
+      },
+      "2": {
+        "title": "免责声明：",
+        "text": "本网站不向特定司法管辖区（包括欧盟/欧洲经济区成员国、英国、美国、澳大利亚、新西兰及金融行动特别工作组（FATF）列示国家，如伊朗、朝鲜、缅甸等）的居民提供投资服务。您须年满 18 周岁或达到您所在国家/地区法定成年年龄，方可注册账户。"
+      },
+      "3": {
+        "title": "法律信息：",
+        "text": "本网站由 SQ Sey Ltd 运营，该公司已获塞舌尔金融服务管理局（FSA）授权并监管，持证券经销商牌照，牌照编号：SD024。"
+      }
+    }
+  }
+}
